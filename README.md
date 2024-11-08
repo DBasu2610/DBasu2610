@@ -33,9 +33,12 @@ Very First Quiz App I Tried     https://illustrious-stroopwafel-cb357d.netlify.a
 
 https://github.com/DBasu2610/DBasu2610/blob/main/postmanBadge.png
 
-<!--[![My Badge](https://github.com/DBasu2610/DBasu2610/raw/main/postmanBadge.png)](https://api.badgr.io/public/assertions/PM4ky9p3Q8aitWp4yIGCYQ?identity__email=basudebadrita94%40gmail.com) -->
+[![My Badge](https://github.com/DBasu2610/DBasu2610/raw/main/postmanBadge.png)](https://api.badgr.io/public/assertions/PM4ky9p3Q8aitWp4yIGCYQ?identity__email=basudebadrita94%40gmail.com) 
 
-![My Badge](https://api.badgr.io/public/assertions/PM4ky9p3Q8aitWp4yIGCYQ/image)
+
+![My Badge](https://raw.githubusercontent.com/DBasu2610/DBasu2610/main/postmanBadge.png)
+
+
 
 
 
