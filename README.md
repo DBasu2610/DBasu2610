@@ -31,6 +31,6 @@ Very First Quiz App I Tried     https://illustrious-stroopwafel-cb357d.netlify.a
 
 # Badges
 
-postmanBadge.png
+https://github.com/DBasu2610/DBasu2610/blob/main/postmanBadge.png
 
 
