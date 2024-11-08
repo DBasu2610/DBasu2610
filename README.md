@@ -31,8 +31,6 @@ Very First Quiz App I Tried     https://illustrious-stroopwafel-cb357d.netlify.a
 
 # Badges
 
- BADGE LINK : https://api.badgr.io/public/assertions/PM4ky9p3Q8aitWp4yIGCYQ?identity__email=basudebadrita94%40gmail.com
-
 ![My Badge](https://raw.githubusercontent.com/DBasu2610/DBasu2610/main/postmanBadge.png)
 
 
